@@ -1,1 +1,1 @@
-phyton-telegram-bot==22.5
+python-telegram-bot==20.7
